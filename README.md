@@ -6,4 +6,4 @@ Summary of my academic projects with links to their repositories
 ### Coding Bootcamp
 Projects written in Processing over a 2 week introductory coding bootcamp
 
-https://github.com/JBrown526/Uni-Bootcamp
+github.com/JBrown526/Uni-Bootcamp
