@@ -25,3 +25,7 @@ A set of UML and requirements modelling diagrams and tables to answer questions 
 
 https://github.com/JBrown526/Uni-OOAD
 
+### Programming in C++
+A C++ application to process the results of an Alternative Vote system and give the most popular candidate
+
+https://github.com/JBrown526/Uni-C-Plus
