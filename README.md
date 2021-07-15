@@ -12,3 +12,16 @@ https://github.com/JBrown526/Uni-Bootcamp
 A Spring Boot web project that acts as a Pokédex
 
 https://github.com/JBrown526/Uni-Business-Systems
+
+### Programming in Java
+A 2D paltforming game based on a variant of the JBox 2D engine
+
+https://github.com/JBrown526/Uni-Java
+
+## Year 2
+
+### Object Oriented Analysis and Design
+A set of UML and requirements modelling diagrams and tables to answer questions laid out in coursework document
+
+https://github.com/JBrown526/Uni-OOAD
+
