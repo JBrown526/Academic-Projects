@@ -11,7 +11,7 @@ https://github.com/JBrown526/Uni-Bootcamp
 ### Introduction to Algorithms
 A Java application to search words in a dictionary that match requirements
 
-https://github.com/JBrown526/Uni-Algorithms/tree/master
+https://github.com/JBrown526/Uni-Algorithms
 
 ### Business Systems
 A Spring Boot web project that acts as a Pokédex
