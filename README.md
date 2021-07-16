@@ -38,6 +38,9 @@ https://github.com/JBrown526/Uni-Team-Project
 ## Year 3
 
 ### Functional Programming
+A Haskell project to simulate the operation of the Enigma machine
+
+https://github.com/JBrown526/Uni-Functional-Programming
 
 ### Programming and Mathematics for AI
 
