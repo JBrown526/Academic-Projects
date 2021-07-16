@@ -34,3 +34,11 @@ https://github.com/JBrown526/Uni-C-Plus
 A standalone Java application built with the IntelliJ GUI builder and a MySQL database for which I acted as lead developer
 
 https://github.com/JBrown526/Uni-Team-Project
+
+## Year 3
+
+### Functional Programming
+
+### Programming and Mathematics for AI
+
+### Individual Project
