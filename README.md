@@ -53,5 +53,8 @@ A Haskell project to simulate the operation of the Enigma machine
 https://github.com/JBrown526/Uni-Functional-Programming
 
 ### Programming and Mathematics for AI
+Jupyter notebooks for AI module processing the MNIST dataset and to find the shortest path in a grid of weighted values
+
+https://github.com/JBrown526/Uni-AI
 
 ### Individual Project
