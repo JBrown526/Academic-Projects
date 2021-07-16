@@ -58,3 +58,6 @@ Jupyter notebooks for AI module processing the MNIST dataset and to find the sho
 https://github.com/JBrown526/Uni-AI
 
 ### Individual Project
+A Spring based Java website running a MySQL database that aimed to help people through the property purchase process by providing a database of all the needed professionals
+
+https://github.com/JBrown526/Uni-Individual-Project
