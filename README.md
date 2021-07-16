@@ -8,6 +8,11 @@ Projects written in Processing over a 2 week introductory coding bootcamp
 
 https://github.com/JBrown526/Uni-Bootcamp
 
+### Introduction to Algorithms
+A Java application to search words in a dictionary that match requirements
+
+https://github.com/JBrown526/Uni-Algorithms/tree/master
+
 ### Business Systems
 A Spring Boot web project that acts as a Pokédex
 
