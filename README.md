@@ -29,3 +29,8 @@ https://github.com/JBrown526/Uni-OOAD
 A C++ application to process the results of an Alternative Vote system and give the most popular candidate
 
 https://github.com/JBrown526/Uni-C-Plus
+
+### Team Project
+A standalone Java application built with the IntelliJ GUI builder and a MySQL database for which I acted as lead developer
+
+https://github.com/JBrown526/Uni-Team-Project
