@@ -25,6 +25,11 @@ A set of UML and requirements modelling diagrams and tables to answer questions 
 
 https://github.com/JBrown526/Uni-OOAD
 
+### Computer Networks
+A IRC bot programmed in Java
+
+https://github.com/JBrown526/Uni-Networking
+
 ### Programming in C++
 A C++ application to process the results of an Alternative Vote system and give the most popular candidate
 
